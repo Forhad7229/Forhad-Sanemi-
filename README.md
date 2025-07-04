@@ -16,3 +16,12 @@
 - Become a trusted contributor in ZenChain’s ecosystem
 - Build beginner-friendly projects that help others learn Web3
 - Help grow ZenChain’s community with content, tech, and support
+lets build this community.
+### 📫 Connect with me:
+
+- 💬 Telegram: [@Gojo5374](https://t.me/Gojo5374)
+- 🐦 Twitter: [@Forhad7229](https://twitter.com/Forhad7229)
+- 💻 Discord: `@sanemiiiiiiiiiiiiiiiiiiiiiiiiiii`
+- 🌐 Join the ZenChain Discord: [https://discord.gg/zenchain](https://discord.gg/zenchain)
+Join Zenchain- https://zenquest.zenchain.io?referral=IFPpg98w0-yu_qCbW3KBBtIeCr94alRdjX6Cbnn5F7k
+Lets build This Powerful community 💪
