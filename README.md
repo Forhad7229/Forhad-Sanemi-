@@ -1,27 +1,47 @@
-# 👋 Hi, I'm Farhad – a ZenChain Builder!
+# 👋 Hey, I'm Forhad/Sanemi — a ZenChain Builder and Web3 Enthusiast!
 
-🌟 I'm currently part of the **Zen Builder** program by [ZenChain](https://zenchain.xyz), where I'm learning and contributing to Web3 and blockchain-based projects.
+I’m a passionate learner, contributor, and aspiring blockchain developer.  
+Currently building and growing within the **ZenChain** ecosystem. 🚀
 
-### 🔗 What I'm Working On
-- Creating content and ideas for ZenChain community 🌐  
-- Learning how to build dApps using **Solidity**, **Remix IDE**, and **MetaMask**  
-- Exploring ZenChain utilities and how users can earn through engagement 💎
+---
 
-### 🧰 Tools & Tech
-- 🧠 Learning: Web3, Smart Contracts, EVM
-- ⚒️ Tools: GitHub, Remix, MetaMask, Discord
-- 🖌️ Creative Side: Canva, ChatGPT, Memes & Promos
+### 🧠 About Me
+- 🔭 Currently exploring **Solidity**, **smart contracts**, and **decentralized applications (dApps)**
+- 🌱 Learning full-stack Web3 development using **Remix IDE**, **MetaMask**, **Ethereum testnets**, and **Ethers.js**
+- ⚡ Engaged with community initiatives like **ZenChain Art**, **ZenBuilder**, and on-chain mini games
 
-### 📌 Goals
-- Become a trusted contributor in ZenChain’s ecosystem
-- Build beginner-friendly projects that help others learn Web3
-- Help grow ZenChain’s community with content, tech, and support
-lets build this community.
-### 📫 Connect with me:
+---
+
+### 🛠️ Tech Stack & Tools
+| Languages | Tools | Blockchain |
+|-----------|-------|------------|
+| HTML, CSS, JS | Git, GitHub, Figma | Solidity, MetaMask |
+| Markdown | Canva, VS Code | Ethereum (Testnet) |
+| Bash Basics | Discord Bots | Web3.js, Ethers.js |
+
+---
+
+### 🔗 What I'm Building
+- 🧩 **ZenChain Mini Projects** – Small dApps to understand smart contracts  
+- 🖼️ **NFT-based sticker drop ideas** for ZenChain  
+- 📢 **Community content** like memes, guides, and onboarding materials
+
+---
+
+### 🏆 ZenChain Roles & Contributions
+- 🎖️ Active ZenBuilder participant  
+- 🧠 Helping new users understand Web3 & ZenChain bots  
+- 💬 Hosting discussions & promo content on Discord and Twitter
+
+---
+
+### 📫 Connect with me
 
 - 💬 Telegram: [@Gojo5374](https://t.me/Gojo5374)
 - 🐦 Twitter: [@Forhad7229](https://twitter.com/Forhad7229)
 - 💻 Discord: `@sanemiiiiiiiiiiiiiiiiiiiiiiiiiii`
-- 🌐 Join the ZenChain Discord: [https://discord.gg/zenchain](https://discord.gg/zenchain)
-Join Zenchain- https://zenquest.zenchain.io?referral=IFPpg98w0-yu_qCbW3KBBtIeCr94alRdjX6Cbnn5F7k
-Lets build This Powerful community 💪
+- 🌐 ZenChain Discord: [Join Now](https://discord.gg/zenchain)
+
+---
+
+> “The future is decentralized — and I’m here to help build it, one block at a time.” 🔗
